@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d4ad80c.css",
+    "main.js": "/static/js/main.2d028ac1.js",
+    "static/media/hero.png": "/static/media/hero.c4a88c7ac0ef3e7213a1.png",
+    "static/media/project-1.png": "/static/media/project-1.e746465f9fdfb12268f3.png",
+    "static/media/about.png": "/static/media/about.de0b01be336d099333bc.png",
+    "static/media/project-3.png": "/static/media/project-3.cd6b232db293e3b69cec.png",
+    "static/media/project-4.png": "/static/media/project-4.39116f59e6c596cbadf9.png",
+    "static/media/project-2.png": "/static/media/project-2.c3eda2cd74fef30c459f.png",
+    "static/media/Jost-VariableFont_wght.ttf": "/static/media/Jost-VariableFont_wght.0ef84783c95cf2a77caa.ttf",
+    "static/media/a2.png": "/static/media/a2.93daae11c92d8a4676a4.png",
+    "static/media/a1.png": "/static/media/a1.a870979d0ca272ae7bf3.png",
+    "static/media/DMSerifDisplay-Regular.ttf": "/static/media/DMSerifDisplay-Regular.ef3c642c5fd9ae15682f.ttf",
+    "static/media/a3.png": "/static/media/a3.bb19e3a7aaeea9a026d1.png",
+    "index.html": "/index.html",
+    "main.9d4ad80c.css.map": "/static/css/main.9d4ad80c.css.map",
+    "main.2d028ac1.js.map": "/static/js/main.2d028ac1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d4ad80c.css",
+    "static/js/main.2d028ac1.js"
+  ]
+}
